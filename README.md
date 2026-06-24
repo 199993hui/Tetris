@@ -77,7 +77,3 @@ Tetris/
 ├── .gitignore
 └── README.md
 ```
-
-## License
-
-MIT
